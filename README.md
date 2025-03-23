@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Final Year Computer Engineering student at CCDS, Nanyang Technological University.
-- 🌟 &nbsp; Dean's List, 2021/2022 and 2022/2023, Current CGPA: 4.89/5.00.
+- 🌟 &nbsp; Dean's List, 2021/2022 and 2022/2023, Current CGPA: 4.90/5.00.
 - 🚀 &nbsp; Excited about embedded development and hardware optimization.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
